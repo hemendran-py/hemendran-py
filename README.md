@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there, I'm Hemendran!
 
-<!--
-**hemendran-py/hemendran-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a developer who loves building fun and useful things on the web.  
+☁️ I’m exploring cloud computing, basic networking, and a bit of security too.   
+📚 Always learning. Always experimenting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I'm into right now:
+- Frontend & full-stack web development
+- Cloud platforms (AWS beginner)
+- Building side projects for fun
+
+---
+
+### 🌐 Connect with me:
+[![Portfolio](https://img.shields.io/badge/Website-hemendran.vercel.app-0A0A0A?style=flat-square&logo=vercel)](https://hemendran.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-@hemendran-181717?style=flat-square&logo=github)](https://github.com/hemendran-py) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemendran%20S-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hemendran-s-506102277)
+---
+
+> “Keep learning, keep building.” 🚀
