@@ -1,7 +1,9 @@
 <h3>Hi 👋, I'm Hemendran</h3>
 
-<p>A passionate developer from India who's exploring Cloud Computing and Networking</p>
-- 🌱 I’m currently learning **React Native, Next.js, AWS, and DevOps fundamentals**
+<p>A passionate developer from India, currently exploring Cloud Computing and Networking.</p>
+
+- 🌱 Learning **React Native, Next.js, AWS, and DevOps fundamentals**
+- 🤖 Experimenting with **AI, LLMs, and automation** to build smarter projects
 
 - 👨‍💻 All of my projects are available at [hemendran.vercel.app](https://hemendran.vercel.app)
 
@@ -31,6 +33,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/>
+
+  <!-- AI Icons -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" width="30"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/>
+  <img src="https://avatars.githubusercontent.com/u/114430036?s=200&v=4" width="30"/>
 </div>
 <h2>⚡️ Where to find me</h2>
 
